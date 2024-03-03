@@ -1,12 +1,96 @@
-# water-quality-prediction
-A water quality prediction machine learning project aims to predict the quality of water in a given location based on various parameters and historical data.
-A water quality prediction machine learning project aims to forecast and assess the quality of water in various settings, such as lakes, rivers, or even tap water sources, using advanced data analysis techniques. This project typically involves collecting and analyzing data on parameters like pH levels, chemical concentrations, temperature, turbidity, and bacterial counts.
+# Water-Quality-Prediction-machine-learning-python
 
-The machine learning models employed in this project leverage historical water quality data and environmental factors to make predictions about future water quality conditions. These predictions can be crucial for ensuring safe and clean water supplies, identifying potential pollution sources, and taking proactive measures for environmental conservation.
 
-Key steps in such a project include data collection, data preprocessing, feature engineering, model selection (which could involve regression, classification, or time series forecasting algorithms), and model evaluation. The project's success relies on the ability of the machine learning model to accurately predict water quality parameters, aiding in better decision-making for water management and public health.
+![image](https://user-images.githubusercontent.com/71986409/180665218-140aea84-3db4-487a-b773-e351696c2915.png)
 
-Ultimately, a well-executed water quality prediction ML project has the potential to enhance our ability to monitor, manage, and safeguard our water resources, contributing to a sustainable and healthy environment.
+
+
+
+
+# Explainning the project 
+
+putting machine learning methods to use to build a prediction of water quality. Using some factors, such as the Ph level, conductivity, hardness, etc., this technique forecasts if the water is fine to consume or not.
+
+
+
+
+
+
+# Table of Contents
+
+
+Importing Libraries
+
+
+
+Uploading the data
+
+
+
+Data Cleaning
+
+
+EDA
+
+
+
+Feature Engineering
+
+
+
+Model Creation
+
+
+
+
+
+
+
+
+# Data Collection
+
+-WQI FC
+
+
+
+-WQI Oxygen
+
+
+
+-WQI pH
+
+
+
+-WQI TSS (total suspended sediment)
+
+
+
+-WQI Temp (temperature)
+
+
+
+-WQI TPN (nitrogen)
+
+
+
+-WQI TP (phosphorus)
+
+
+
+-WQI Turb (turbidit
+
+
+
+
+
+
+
+# methods used for this projects 
+![image](https://user-images.githubusercontent.com/71986409/180665499-7f1fa699-cb46-40fd-bc4c-affd20d93f00.png)
+
+
+
+
 
 
 
